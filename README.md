@@ -5,8 +5,8 @@
 
 # Lists as Stacks and Queues 
 # Tuples and Sets 
-# Mul	dimensional Lists 
-# Func	ons Advanced 
+# Multidimensional Lists 
+# Functions Advanced 
 # Error Handling 
 # File Handling 
 # Workshop 
