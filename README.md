@@ -1,4 +1,4 @@
-# SoftUni-advanced
+# SoftUni-Python-advanced
 # This is a repository from my Advanced Python Course at SoftUni 2022.
 
 # COURSE CURRICULUM:
