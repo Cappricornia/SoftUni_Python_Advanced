@@ -1,4 +1,4 @@
-# SoftUni-Python-advanced
+# SoftUniPythonAdvanced
 
 
 # COURSE CURRICULUM:
