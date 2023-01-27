@@ -17,8 +17,6 @@
 # Constraints
 # •	The input will always be valid
 
-
-
 from collections import deque
 total_food = int(input())
 orders = deque(map(int, input().split()))

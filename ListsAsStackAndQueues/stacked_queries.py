@@ -7,8 +7,6 @@
 # After you go through all the queries, print the stack from the top to the bottom in the following format:
 # "{n}, {n1}, {n2} …, {nn}"
 
-
-
 n = int(input())
 stack = []
 for _ in range(n):
