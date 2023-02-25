@@ -1,4 +1,4 @@
-# SoftUni Python Advanced Course
+# SoftUni Python Advanced Course  🐍
 
 
 ## COURSE CURRICULUM:
