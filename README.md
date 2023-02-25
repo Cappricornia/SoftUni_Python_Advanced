@@ -1,7 +1,7 @@
 # SoftUni Python Advanced Course  🐍
 
 
-## COURSE CURRICULUM:
+## COURSE CURRICULUM: 📜
 
 ### 1. Lists as Stacks and Queues 
 ### 2. Tuples and Sets 
