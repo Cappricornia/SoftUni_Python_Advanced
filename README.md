@@ -12,8 +12,7 @@
 ### 6. Functions Advanced 
 ### 7. Error Handling 
 ### 8. File Handling 
-### 9. Workshop 
-### 10. Modules
+### 9. Modules
 
 
 ![122](https://user-images.githubusercontent.com/90700181/217650524-78fa0594-15c8-4306-9103-8fb6f6854c92.png)
